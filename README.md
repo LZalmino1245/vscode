@@ -1,75 +1,56 @@
-# Visual Studio Code - Open Source ("Code - OSS")
-[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-[![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
+Código do Visual Studio - Open Source ("Código - OSS")
+[! [Solicitações de recursos] (https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)] (https://github.com/microsoft/vscode/issues?q=is % 3Aopen + é% 3Aissue + label% 3Afeature-request + sort% 3Areactions-% 2B1-desc)
+[! [Bugs] (https://img.shields.io/github/issues/microsoft/vscode/bug.svg)] (https://github.com/microsoft/vscode/issues?utf8=✓&q=is % 3Aissue + é% 3Aopen + rótulo% 3Abug)
+[! [Gitter] (https://img.shields.io/badge/chat-on%20gitter-yellow.svg)] (https://gitter.im/Microsoft/vscode)
 
-## The Repository
+## O Repositório
 
-This repository ("`Code - OSS`") is where we (Microsoft) develop the [Visual Studio Code](https://code.visualstudio.com) product together with the community. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/microsoft/vscode/wiki/Roadmap), [monthly iteration plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans), and our [endgame plans](https://github.com/microsoft/vscode/wiki/Running-the-Endgame). This source code is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+Este repositório ("` Código - OSS` ") é onde nós (Microsoft) desenvolvemos o produto [Visual Studio Code] (https://code.visualstudio.com) junto com a comunidade. Não apenas trabalhamos com código e problemas aqui, também publicamos nosso [roteiro] (https://github.com/microsoft/vscode/wiki/Roadmap), [planos de iteração mensais] (https://github.com/ microsoft / vscode / wiki / Iteration-Plans) e nossos [planos de final de jogo] (https://github.com/microsoft/vscode/wiki/Running-the-Endgame). Este código-fonte está disponível para todos sob a [licença MIT] padrão (https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
 
 ## Visual Studio Code
 
-<p align="center">
-  <img alt="VS Code in action" src="https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png">
+<p align = "center">
+  <img alt = "VS Code em ação" src = "https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png">
 </p>
 
-[Visual Studio Code](https://code.visualstudio.com) is a distribution of the `Code - OSS` repository with Microsoft-specific customizations released under a traditional [Microsoft product license](https://code.visualstudio.com/License/).
+[Visual Studio Code] (https://code.visualstudio.com) é uma distribuição do repositório `Code - OSS` com personalizações específicas da Microsoft lançadas sob uma [licença de produto Microsoft] tradicional (https: //code.visualstudio. com / Licença /).
 
-[Visual Studio Code](https://code.visualstudio.com) combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
+[Visual Studio Code] (https://code.visualstudio.com) combina a simplicidade de um editor de código com o que os desenvolvedores precisam para seu ciclo principal de edição-construção-depuração. Ele fornece edição de código abrangente, navegação e suporte de compreensão junto com depuração leve, um modelo de extensibilidade rico e integração leve com ferramentas existentes.
 
-Visual Studio Code is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Visual Studio Code's website](https://code.visualstudio.com/Download). To get the latest releases every day, install the [Insiders build](https://code.visualstudio.com/insiders).
+O código do Visual Studio é atualizado mensalmente com novos recursos e correções de bugs. Você pode baixá-lo para Windows, macOS e Linux no [site do Visual Studio Code] (https://code.visualstudio.com/Download). Para obter os lançamentos mais recentes todos os dias, instale a [compilação Insiders] (https://code.visualstudio.com/insiders).
 
-## Contributing
+## Contribuindo
 
-There are many ways in which you can participate in this project, for example:
+Existem muitas maneiras pelas quais você pode participar deste projeto, por exemplo:
 
-* [Submit bugs and feature requests](https://github.com/microsoft/vscode/issues), and help us verify as they are checked in
-* Review [source code changes](https://github.com/microsoft/vscode/pulls)
-* Review the [documentation](https://github.com/microsoft/vscode-docs) and make pull requests for anything from typos to additional and new content
+* [Envie bugs e solicitações de recursos] (https://github.com/microsoft/vscode/issues) e nos ajude a verificar como eles são verificados
+* Revise [alterações no código-fonte] (https://github.com/microsoft/vscode/pulls)
+* Revise a [documentação] (https://github.com/microsoft/vscode-docs) e faça solicitações de pull para qualquer coisa, desde erros de digitação até conteúdo novo e adicional
 
-If you are interested in fixing issues and contributing directly to the code base,
-please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
+Se você estiver interessado em corrigir problemas e contribuir diretamente para a base de código,
+consulte o documento [Como contribuir] (https://github.com/microsoft/vscode/wiki/How-to-Contribute), que cobre o seguinte:
 
-* [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
-* [The development workflow, including debugging and running tests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
-* [Coding guidelines](https://github.com/microsoft/vscode/wiki/Coding-Guidelines)
-* [Submitting pull requests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
-* [Finding an issue to work on](https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute)
-* [Contributing to translations](https://aka.ms/vscodeloc)
+* [Como construir e executar a partir da fonte] (https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+* [O fluxo de trabalho de desenvolvimento, incluindo depuração e execução de testes] (https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
+* [Diretrizes de codificação] (https://github.com/microsoft/vscode/wiki/Coding-Guidelines)
+* [Enviando solicitações pull] (https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
+* [Encontrando um problema para trabalhar] (https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute)
+* [Contribuindo para traduções] (https://aka.ms/vscodeloc)
 
-## Feedback
+## Comentários
 
-* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/vscode)
-* [Request a new feature](CONTRIBUTING.md)
-* Upvote [popular feature requests](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-* [File an issue](https://github.com/microsoft/vscode/issues)
-* Follow [@code](https://twitter.com/code) and let us know what you think!
+* Faça uma pergunta em [Stack Overflow] (https://stackoverflow.com/questions/tagged/vscode)
+* [Solicite um novo recurso] (CONTRIBUTING.md)
+* Upvote [solicitações de recursos populares] (https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+* [Registre um problema] (https://github.com/microsoft/vscode/issues)
+* Siga [@code] (https://twitter.com/code) e diga-nos o que você achou!
 
-See our [wiki](https://github.com/microsoft/vscode/wiki/Feedback-Channels) for a description of each of these channels and information on some other available community-driven channels.
+Consulte nosso [wiki] (https://github.com/microsoft/vscode/wiki/Feedback-Channels) para obter uma descrição de cada um desses canais e informações sobre alguns outros canais disponíveis voltados para a comunidade.
 
-## Related Projects
+## Projetos relacionados
 
-Many of the core components and extensions to VS Code live in their own repositories on GitHub. For example, the [node debug adapter](https://github.com/microsoft/vscode-node-debug) and the [mono debug adapter](https://github.com/microsoft/vscode-mono-debug) repositories are separate from each other. For a complete list, please visit the [Related Projects](https://github.com/microsoft/vscode/wiki/Related-Projects) page on our [wiki](https://github.com/microsoft/vscode/wiki).
+Muitos dos principais componentes e extensões do VS Code estão em seus próprios repositórios no GitHub. Por exemplo, o [adaptador de depuração do nó] (https://github.com/microsoft/vscode-node-debug) e o [adaptador de depuração mono] (https://github.com/microsoft/vscode-mono-debug) os repositórios são separados uns dos outros. Para obter uma lista completa, visite a página [Projetos relacionados] (https://github.com/microsoft/vscode/wiki/Related-Projects) em nosso [wiki] (https://github.com/microsoft/vscode/ wiki).
 
 ## Bundled Extensions
 
-VS Code includes a set of built-in extensions located in the [extensions](extensions) folder, including grammars and snippets for many languages. Extensions that provide rich language support (code completion, Go to Definition) for a language have the suffix `language-features`. For example, the `json` extension provides coloring for `JSON` and the `json-language-features` extension provides rich language support for `JSON`.
-
-## Development Container
-
-This repository includes a Visual Studio Code Remote - Containers / GitHub Codespaces development container.
-
-- For [Remote - Containers](https://aka.ms/vscode-remote/download/containers), use the **Remote-Containers: Clone Repository in Container Volume...** command which creates a Docker volume for better disk I/O on macOS and Windows.
-- For Codespaces, install the [Github Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) extension in VS Code, and use the **Codespaces: Create New Codespace** command.
-
-Docker / the Codespace should have at least **4 Cores and 6 GB of RAM (8 GB recommended)** to run full build. See the [development container README](.devcontainer/README.md) for more information.
-
-## Code of Conduct
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## License
-
-Copyright (c) Microsoft Corporation. All rights reserved.
-
-Licensed under the [MIT](LICENSE.txt) license.
+O VS Code inclui um conjunto de extensões internas localizadas na pasta [extensions] (extensions), incluindo gramáticas e snippets para vários idiomas. Extensões que fornecem suporte de linguagem rica (autocompletar código, vá para definição) para uma linguagem têm o sufixo `language-features`. Por exemplo, a extensão `json` fornece cores para` JSON` e a extensão `json-language-features`
